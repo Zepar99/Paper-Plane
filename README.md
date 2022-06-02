@@ -4,6 +4,8 @@ In this Game your have to control (Using **WASD**) the plane which is always mov
 
 # Features
 - Simple Mechanics
+- Enemy AI for Enemy Planes
+- Used Trail System
 - HyperCasual
 - Post Processing
 - Design Patterns used
