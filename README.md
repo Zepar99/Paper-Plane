@@ -2,6 +2,9 @@
 This is a hyperCasual Game which I make for Fun.
 In this Game your have to control (Using **WASD**) the plane which is always moving forward add help the plane to avoid the enemys.
 
+# Play At
+[https://pratikborse.itch.io/](https://pratikborse.itch.io/) (Can Play in browser)
+
 # Features
 - Simple Mechanics
 - Enemy AI for Enemy Planes
